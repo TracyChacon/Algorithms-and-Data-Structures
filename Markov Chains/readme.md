@@ -25,7 +25,7 @@ The code can be improved by adding the following features:
 - Could be made more user-friendly by adding error handling and input validation.
 - Could be made more versatile by allowing the user to specify the number of times the matrix is raised to a power.
 
-Overall, the code is well-written and easy to understand. It is a good example of how to calculate the probability of reaching all states in a Markov chain.   Based on the above create a one line byline to catch the eye of recruiters. Include use cases
+Overall, the code is well-written and easy to understand. It is a good example of how to calculate the probability of reaching all states in a Markov chain.
 
 ## Use cases:
 ### Markov property: 
