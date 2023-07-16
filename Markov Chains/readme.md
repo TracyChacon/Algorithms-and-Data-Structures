@@ -13,7 +13,8 @@ The behavior of individuals and groups can also be modeled by Markov chains. For
 ## Computer science:
 Markov chains are used in computer science for a variety of purposes, including:
 
-## Text generation: Markov chains can be used to generate text that is similar to a given piece of text.
+## Text generation:
+Markov chains can be used to generate text that is similar to a given piece of text.
 ## Speech recognition: 
 Markov chains can be used to recognize speech.
 ## Machine learning: Markov chains can be used to train machine learning models.
