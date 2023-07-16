@@ -15,8 +15,9 @@ The function
 - calculates the probability of reaching all states by raising the normalized matrix to a power.
 The code uses the following Python libraries:
 
-decimal - This library is used to work with decimal numbers.
-math - This library is used to calculate mathematical functions, such as the power function.
+#### Libraries Used
+- decimal - This library is used to work with decimal numbers.
+- math - This library is used to calculate mathematical functions, such as the power function.
 
 The code can be improved by adding the following features:
 
