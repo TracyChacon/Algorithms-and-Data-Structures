@@ -1,4 +1,4 @@
-# Markov Chains using Python (Code may be provided upoon request)
+# Markov Chains using Python (Code may be provided upon request)
 ## Overview
 While researching how to fix a missing head issue in git, I was presented with a challenge from Google. The challenge was to solve a problem but there no mention of using Markov chains, a type of mathematical model that can be used to predict future states based on current states. I had never heard of Markov chains before, but I was intrigued by the challenge and decided to give it a try.
 
