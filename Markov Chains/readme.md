@@ -1,6 +1,6 @@
 # Markov Chains using Python (Code may be provided upon request)
 ## Overview
-While researching how to fix a missing head issue in git, I was presented with a challenge from Google. The challenge was to solve a problem but there no mention of using Markov chains, a type of mathematical model that can be used to predict future states based on current states. I had never heard of Markov chains before, but I was intrigued by the challenge and decided to give it a try.
+While researching how to fix a missing head issue in git, I was presented with a challenge from Google. The challenge was to solve a problem but there was no mention of using Markov chains, a type of mathematical model that can be used to predict future states based on current states. I had never heard of Markov chains before, but I was intrigued by the challenge and decided to give it a try.
 
 I spent several hours learning about Markov chains and how they can be used to solve problems. I also researched the Google foobar challenge and found that it was a series of challenges designed to test the skills of potential Google employees. I was determined to solve the challenge, so I put my newfound knowledge of Markov chains to work.
 
